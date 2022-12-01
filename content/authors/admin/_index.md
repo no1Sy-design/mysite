@@ -29,7 +29,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Bachelor,radiophysics
+    - course: Bachelor, radiophysics
       institution: P. G. Demidov Yaroslavl State University
       year: 2021 
 
