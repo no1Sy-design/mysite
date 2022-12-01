@@ -39,7 +39,7 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: instagram
-    icon_pack: custom
+    icon_pack: fas
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
@@ -48,7 +48,7 @@ social:
     display:
       header: true
   - icon: vk
-    icon_pack: custom
+    icon_pack: fas
     link: https://vk.com/id190197236
   - icon: github
     icon_pack: fab
