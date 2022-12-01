@@ -48,7 +48,7 @@ social:
     display:
       header: true
   - icon: vk
-    icon_pack: fas
+    icon_pack: fab
     link: https://vk.com/id190197236
   - icon: github
     icon_pack: fab
