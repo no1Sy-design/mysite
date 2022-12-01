@@ -1,35 +1,35 @@
 ---
 # Display name
-title: Денис Масловский
+title: Denis Maslovskiy
 
 # Full name (for SEO)
-first_name: Денис
-last_name: Масловский
+first_name: Denis
+last_name: Maslovskiy
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: студент, гимнаст
+role: student, gymnast
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Яргу им. П.Г. Демидова
+  - name: P. G. Demidov Yaroslavl State University
     url: https://www.uniyar.ac.ru
 
 # Short bio (displayed in user profile at end of posts)
-bio: Занимаюсь спортом
+bio: Doing sports
 
 # Interests to show in About widget
 interests:
-  - Спортивная гимнастика
-  - Программирование
+  - Artistic gymnastics
+  - Programming
   
 
 # Education to show in About widget
 education:
   courses:
-    - Бакалавриат, Радиофизика, 2021
+    - Bachelor degree, Radiophysics, 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,4 +64,4 @@ email: ''
 highlight_name: true
 ---
 
-В 2021 закончил бакалавриат по специальности радиофизика. В этом же году поступил в магистратуру на специальность информационные технологии и системы связи.
+In 2021 I graduated with a bachelor's degree in radiophysics. In the same year, entered the Master's degree in information technology and communication systems.
